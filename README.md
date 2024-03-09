@@ -6,7 +6,8 @@ Such as:
 - Federated Learning
 - LSTM Based Stock Market Trading System
 - Metric Learning and Generative AI
-- LLMs Generated Text Detector (ref -- https://arxiv.org/abs/2305.15047)
-    Done by:
+- LLMs Generated Text Detector: ref -- https://arxiv.org/abs/2305.15047
+
+  Done by:
     - Tejaswee Sulekh
     - Bhavya Singh
